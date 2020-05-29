@@ -1,6 +1,18 @@
 {
     "themes": [
         {
+            "name": "True Light 2.0.0 (NEW)",
+            "link": "https://github.com/agamsol/Releases/releases/download/2.0.0/TrueLightV2.0.theme.css",
+            "description": "True Light 2.0.0 <br> True Light is a theme that based on True Light Theme,<br> A Modern Theme for your discord app. <br><br> Change Log:<br> · New Gif Background. <br> · removed any Rainbow Color from the theme. <br>· Big Layout Change. <br>· Removed News Bar.<br>· Added Code Box Layout<br>· Theme is Encrypted",
+            "images": [
+                "https://i.imgur.com/0yI69yf.gif",
+                "https://i.imgur.com/dWHzyMZ.png",
+                "https://i.imgur.com/IArfAUx.png",
+                "https://i.imgur.com/oPZ79HF.png",
+                "https://i.imgur.com/Qf4T8M6.png"
+            ]
+        },
+        {
             "name": "True Light Anime v1.0",
             "link": "https://mega.nz/#!E9gj0IhT!tYFTjSNC0m4zb5TnKnfYOEp3sk0tM3AlcQaG8efAgWU",
             "description": "True Light Anime 1.0 <br> True Light Anime is a theme that based on True Light Theme,<br> An anime theme For your Discord. <br><br> Change Log:<br> · Added Background to the theme. <br> · changed Dm's list name color<br>· Removed Rainbow colors Anywhere. <br>· Built-in Control System<br>· Added NewsBar (Controlled by The Web)",
