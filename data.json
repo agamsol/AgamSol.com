@@ -1,7 +1,15 @@
 {
     "themes": [
         {
-            "name": "True Light 2.0.1 (NEW)",
+            "name": "Themes Installer Tool 1.0.0 (New)",
+            "link": "https://github.com/agamsol/DiscordThemes/releases/download/1.0.0/Themes.Installer.rar",
+            "description": "Themes Installer Tool 2020 <br> A new and easy way to install Discord themes<br><br>▪ Developed using Batch<br>▪ Supports Windows 10 Only<br>▪ Supported Languages: English, Spanish.<br>▪ 24/7 Support<br>▪ the file Might be detected as a virus cause this is a batch file, ignore it and continue<br><br>▪ Thanks for Downloading, Report Bugs To me And i will be fixing it in the next versions",
+            "images": [
+                "https://i.imgur.com/4DoJncm.png"
+            ]
+        },
+        {
+            "name": "True Light 2.0.1",
             "link": "https://github.com/agamsol/DiscordThemes/releases/download/2.0.1/TrueLightV2.0.1.theme.css",
             "description": "True Light 2.0.1 <br> True Light is a theme that based on True Light Theme,<br> A Modern Theme for your discord app. <br><br> Change Log:<br>▪ Added Custom Better Discord notifications to the theme <br>▪ Fully Changed the layout of friends TAB (Acoount Profile)<br>▪ Added Media layout, uploading file, viewing file, Player UI.",
             "images": [
